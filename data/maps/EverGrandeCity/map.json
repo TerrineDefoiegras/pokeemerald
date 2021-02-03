@@ -16,34 +16,41 @@
     {
       "direction": "left",
       "offset": 40,
-      "map": "MAP_ROUTE128"
+      "map": "MAP_MOSSDEEP_CITY"
+    },
+    {
+      "direction": "left",
+      "offset": 0,
+      "map": "MAP_ROUTE125"
     }
   ],
-  "object_events": [],
+  "object_events": [
+
+  ],
   "warp_events": [
     {
-      "x": 18,
+      "x": 38,
       "y": 5,
       "elevation": 0,
       "dest_map": "MAP_EVER_GRANDE_CITY_POKEMON_LEAGUE_1F",
       "dest_warp_id": 0
     },
     {
-      "x": 27,
+      "x": 47,
       "y": 48,
       "elevation": 0,
       "dest_map": "MAP_EVER_GRANDE_CITY_POKEMON_CENTER_1F",
       "dest_warp_id": 0
     },
     {
-      "x": 18,
+      "x": 38,
       "y": 41,
       "elevation": 0,
       "dest_map": "MAP_VICTORY_ROAD_1F",
       "dest_warp_id": 0
     },
     {
-      "x": 18,
+      "x": 38,
       "y": 27,
       "elevation": 0,
       "dest_map": "MAP_VICTORY_ROAD_1F",
@@ -53,7 +60,7 @@
   "coord_events": [
     {
       "type": "trigger",
-      "x": 17,
+      "x": 37,
       "y": 58,
       "elevation": 1,
       "var": "VAR_TEMP_1",
@@ -62,7 +69,7 @@
     },
     {
       "type": "trigger",
-      "x": 16,
+      "x": 36,
       "y": 58,
       "elevation": 1,
       "var": "VAR_TEMP_1",
@@ -71,7 +78,7 @@
     },
     {
       "type": "trigger",
-      "x": 18,
+      "x": 38,
       "y": 58,
       "elevation": 1,
       "var": "VAR_TEMP_1",
@@ -80,7 +87,7 @@
     },
     {
       "type": "trigger",
-      "x": 19,
+      "x": 39,
       "y": 58,
       "elevation": 1,
       "var": "VAR_TEMP_1",
@@ -89,7 +96,7 @@
     },
     {
       "type": "trigger",
-      "x": 20,
+      "x": 40,
       "y": 58,
       "elevation": 1,
       "var": "VAR_TEMP_1",
@@ -98,7 +105,7 @@
     },
     {
       "type": "trigger",
-      "x": 21,
+      "x": 41,
       "y": 58,
       "elevation": 1,
       "var": "VAR_TEMP_1",
@@ -107,7 +114,7 @@
     },
     {
       "type": "trigger",
-      "x": 22,
+      "x": 42,
       "y": 58,
       "elevation": 1,
       "var": "VAR_TEMP_1",
@@ -116,7 +123,7 @@
     },
     {
       "type": "trigger",
-      "x": 23,
+      "x": 43,
       "y": 58,
       "elevation": 1,
       "var": "VAR_TEMP_1",
@@ -125,7 +132,7 @@
     },
     {
       "type": "trigger",
-      "x": 24,
+      "x": 44,
       "y": 58,
       "elevation": 1,
       "var": "VAR_TEMP_1",
@@ -134,7 +141,7 @@
     },
     {
       "type": "trigger",
-      "x": 25,
+      "x": 45,
       "y": 58,
       "elevation": 1,
       "var": "VAR_TEMP_1",
@@ -143,7 +150,7 @@
     },
     {
       "type": "trigger",
-      "x": 26,
+      "x": 46,
       "y": 58,
       "elevation": 1,
       "var": "VAR_TEMP_1",
@@ -154,7 +161,7 @@
   "bg_events": [
     {
       "type": "sign",
-      "x": 19,
+      "x": 39,
       "y": 43,
       "elevation": 5,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
@@ -162,7 +169,7 @@
     },
     {
       "type": "sign",
-      "x": 29,
+      "x": 49,
       "y": 48,
       "elevation": 0,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_NORTH",
@@ -170,7 +177,7 @@
     },
     {
       "type": "sign",
-      "x": 18,
+      "x": 38,
       "y": 52,
       "elevation": 5,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
@@ -178,7 +185,7 @@
     },
     {
       "type": "sign",
-      "x": 23,
+      "x": 43,
       "y": 15,
       "elevation": 0,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
@@ -186,7 +193,7 @@
     },
     {
       "type": "sign",
-      "x": 28,
+      "x": 48,
       "y": 48,
       "elevation": 0,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_NORTH",

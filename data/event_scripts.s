@@ -1060,3 +1060,33 @@ Common_EventScript_LegendaryFlewAway:: @ 8273776
 	.include "data/text/frontier_brain.inc"
 	.include "data/text/save.inc"
 	.include "data/text/birch_speech.inc"
+
+	.include "data/maps/NewMap1/scripts.inc"
+
+	.include "data/maps/Route119bis/scripts.inc"
+
+	.include "data/maps/Route120bis/scripts.inc"
+
+	.include "data/maps/Desert1/scripts.inc"
+
+	.include "data/maps/Desert2/scripts.inc"
+
+	.include "data/maps/NorthShore/scripts.inc"
+
+	.include "data/maps/NewIsland1/scripts.inc"
+
+	.include "data/maps/NewIsland2/scripts.inc"
+
+	.include "data/maps/NewIsland3/scripts.inc"
+
+	.include "data/maps/NewIsland4/scripts.inc"
+
+	.include "data/maps/NewIsland5/scripts.inc"
+
+	.include "data/maps/NewIsland6/scripts.inc"
+
+	.include "data/maps/NewIsland7/scripts.inc"
+
+	.include "data/maps/NewIsland8/scripts.inc"
+
+	.include "data/maps/NewIsland9/scripts.inc"

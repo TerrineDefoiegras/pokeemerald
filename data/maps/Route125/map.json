@@ -27,6 +27,11 @@
       "direction": "dive",
       "offset": 0,
       "map": "MAP_UNDERWATER_ROUTE125"
+    },
+    {
+      "direction": "right",
+      "offset": 0,
+      "map": "MAP_EVER_GRANDE_CITY"
     }
   ],
   "object_events": [
@@ -170,7 +175,9 @@
       "dest_warp_id": 0
     }
   ],
-  "coord_events": [],
+  "coord_events": [
+
+  ],
   "bg_events": [
     {
       "type": "secret_base",

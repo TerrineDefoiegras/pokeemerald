@@ -15,18 +15,23 @@
   "connections": [
     {
       "direction": "down",
-      "offset": 0,
+      "offset": -10,
       "map": "MAP_MAUVILLE_CITY"
     },
     {
       "direction": "left",
-      "offset": 0,
+      "offset": -30,
       "map": "MAP_ROUTE113"
     },
     {
       "direction": "left",
       "offset": 20,
       "map": "MAP_ROUTE112"
+    },
+    {
+      "direction": "right",
+      "offset": -30,
+      "map": "MAP_DESERT1"
     }
   ],
   "object_events": [

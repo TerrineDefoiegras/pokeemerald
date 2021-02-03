@@ -20,8 +20,13 @@
     },
     {
       "direction": "left",
-      "offset": 40,
+      "offset": 42,
       "map": "MAP_ROUTE108"
+    },
+    {
+      "direction": "right",
+      "offset": 23,
+      "map": "MAP_NEW_ISLAND1"
     }
   ],
   "object_events": [
@@ -347,7 +352,9 @@
       "dest_warp_id": 0
     }
   ],
-  "coord_events": [],
+  "coord_events": [
+
+  ],
   "bg_events": [
     {
       "type": "sign",

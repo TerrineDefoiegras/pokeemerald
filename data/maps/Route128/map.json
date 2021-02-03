@@ -15,29 +15,24 @@
   "connections": [
     {
       "direction": "up",
-      "offset": 0,
+      "offset": 30,
       "map": "MAP_ROUTE127"
-    },
-    {
-      "direction": "down",
-      "offset": 0,
-      "map": "MAP_ROUTE129"
-    },
-    {
-      "direction": "right",
-      "offset": -40,
-      "map": "MAP_EVER_GRANDE_CITY"
     },
     {
       "direction": "dive",
       "offset": 0,
       "map": "MAP_UNDERWATER_ROUTE128"
+    },
+    {
+      "direction": "up",
+      "offset": -50,
+      "map": "MAP_ROUTE126"
     }
   ],
   "object_events": [
     {
       "graphics_id": "OBJ_EVENT_GFX_SWIMMER_M",
-      "x": 35,
+      "x": 65,
       "y": 33,
       "elevation": 1,
       "movement_type": "MOVEMENT_TYPE_WALK_SEQUENCE_RIGHT_UP_LEFT_DOWN",
@@ -50,7 +45,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_SWIMMER_F",
-      "x": 78,
+      "x": 108,
       "y": 24,
       "elevation": 1,
       "movement_type": "MOVEMENT_TYPE_WALK_RIGHT_AND_LEFT",
@@ -63,7 +58,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_STEVEN",
-      "x": 40,
+      "x": 70,
       "y": 22,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_DOWN",
@@ -76,7 +71,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_ARCHIE",
-      "x": 37,
+      "x": 67,
       "y": 22,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_LEFT",
@@ -89,7 +84,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_MAXIE",
-      "x": 38,
+      "x": 68,
       "y": 21,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_UP",
@@ -102,7 +97,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_FISHERMAN",
-      "x": 63,
+      "x": 93,
       "y": 28,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_UP",
@@ -115,7 +110,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_MAN_3",
-      "x": 47,
+      "x": 77,
       "y": 9,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_RIGHT",
@@ -128,7 +123,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_WOMAN_5",
-      "x": 24,
+      "x": 54,
       "y": 8,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_DOWN_AND_LEFT",
@@ -141,7 +136,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_SWIMMER_F",
-      "x": 101,
+      "x": 129,
       "y": 29,
       "elevation": 1,
       "movement_type": "MOVEMENT_TYPE_WALK_UP_AND_DOWN",
@@ -154,7 +149,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_SWIMMER_M",
-      "x": 101,
+      "x": 129,
       "y": 22,
       "elevation": 1,
       "movement_type": "MOVEMENT_TYPE_WALK_DOWN_AND_UP",
@@ -166,12 +161,16 @@
       "flag": "0"
     }
   ],
-  "warp_events": [],
-  "coord_events": [],
+  "warp_events": [
+
+  ],
+  "coord_events": [
+
+  ],
   "bg_events": [
     {
       "type": "hidden_item",
-      "x": 49,
+      "x": 79,
       "y": 9,
       "elevation": 3,
       "item": "ITEM_HEART_SCALE",
@@ -179,7 +178,7 @@
     },
     {
       "type": "hidden_item",
-      "x": 57,
+      "x": 87,
       "y": 21,
       "elevation": 3,
       "item": "ITEM_HEART_SCALE",
@@ -187,7 +186,7 @@
     },
     {
       "type": "hidden_item",
-      "x": 31,
+      "x": 61,
       "y": 33,
       "elevation": 3,
       "item": "ITEM_HEART_SCALE",

@@ -1,10 +1,6 @@
 #ifndef GUARD_CONSTANTS_MAP_GROUPS_H
 #define GUARD_CONSTANTS_MAP_GROUPS_H
 
-//
-// DO NOT MODIFY THIS FILE! It is auto-generated from data/maps/map_groups.json
-//
-
 // Map Group 0
 #define MAP_PETALBURG_CITY      (0 | (0 << 8))
 #define MAP_SLATEPORT_CITY      (1 | (0 << 8))
@@ -63,6 +59,21 @@
 #define MAP_UNDERWATER_ROUTE129 (54 | (0 << 8))
 #define MAP_UNDERWATER_ROUTE105 (55 | (0 << 8))
 #define MAP_UNDERWATER_ROUTE125 (56 | (0 << 8))
+#define MAP_NEW_MAP1            (57 | (0 << 8))
+#define MAP_ROUTE119BIS         (58 | (0 << 8))
+#define MAP_ROUTE120BIS         (59 | (0 << 8))
+#define MAP_DESERT1             (60 | (0 << 8))
+#define MAP_DESERT2             (61 | (0 << 8))
+#define MAP_NORTH_SHORE         (62 | (0 << 8))
+#define MAP_NEW_ISLAND1         (63 | (0 << 8))
+#define MAP_NEW_ISLAND2         (64 | (0 << 8))
+#define MAP_NEW_ISLAND3         (65 | (0 << 8))
+#define MAP_NEW_ISLAND4         (66 | (0 << 8))
+#define MAP_NEW_ISLAND5         (67 | (0 << 8))
+#define MAP_NEW_ISLAND6         (68 | (0 << 8))
+#define MAP_NEW_ISLAND7         (69 | (0 << 8))
+#define MAP_NEW_ISLAND8         (70 | (0 << 8))
+#define MAP_NEW_ISLAND9         (71 | (0 << 8))
 
 // Map Group 1
 #define MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_1F    (0 | (1 << 8))

@@ -15,17 +15,17 @@
   "connections": [
     {
       "direction": "up",
-      "offset": 0,
+      "offset": -10,
       "map": "MAP_MAUVILLE_CITY"
     },
     {
       "direction": "down",
-      "offset": 0,
+      "offset": -10,
       "map": "MAP_SLATEPORT_CITY"
     },
     {
       "direction": "left",
-      "offset": 60,
+      "offset": 48,
       "map": "MAP_ROUTE103"
     }
   ],
